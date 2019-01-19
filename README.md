@@ -1,1 +1,1 @@
-![](https://github.com/PROTOANIC/Formula-One/blob/master/Assets/Misc/VerticalBannerGeneric.png?raw=true)
+![](https://raw.githubusercontent.com/PROTOANIC/Formula-One/master/Assets/Misc/VerticalBannerGeneric.png)
