@@ -1,6 +1,6 @@
 ![](https://github.com/PROTOANIC/Formula-One/raw/master/Assets/Misc/VerticalBanner_GitHubRepo2.png)
 
-https://github.com/PROTOANIC/F1InSchools/issues/7
+https://protoanic.github.io/F1InSchools/
 
 # PROTOANIC Open-Source Management Board
 
