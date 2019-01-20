@@ -24,7 +24,7 @@ Mail : PROTOANIC.Racing@gmail.com
 | Dylan Gallagher 	| Standards And Optimisation Auditor 	|
 | Geoffrey Kelly  	| Resource Administrator             	|
 | Jakob Eckl      	| Manufacturing Engineer             	|
-| James Maxwell   	| Enterprise Engineer                	|
+| James Maxwell   	| Enterprise Manager                	|
 | Patrick Groves  	| Graphics Designer                  	|
 
 # Main Announcements
