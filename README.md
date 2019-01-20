@@ -7,6 +7,8 @@ PROTOANIC Open-Source Management Board
 
 ## [Create An Issue / Feature Request](https://github.com/PROTOANIC/F1InSchools/issues/new/choose)
 
+## [View All Issues](https://github.com/PROTOANIC/F1InSchools/issues)
+
 ## [View Project System](https://github.com/orgs/PROTOANIC/projects/3?fullscreen=true)
 
 [Create a GitHub Account](https://github.com/join)
