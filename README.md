@@ -2,7 +2,8 @@
 
 https://protoanic.github.io/F1InSchools/
 
-# PROTOANIC Open-Source Management Board
+PROTOANIC Open-Source Management Board
+===
 
 ## [Create An Issue / Feature Request](https://github.com/PROTOANIC/F1InSchools/issues/new/choose)
 
