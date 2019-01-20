@@ -1,5 +1,7 @@
 ![](https://github.com/PROTOANIC/Formula-One/raw/master/Assets/Misc/VerticalBanner_GitHubRepo2.png)
 
+"LEADING IN PROGRESSION" - Founded October 2018
+
 https://protoanic.github.io/F1InSchools/
 
 PROTOANIC Open-Source Management Board
@@ -12,6 +14,8 @@ PROTOANIC Open-Source Management Board
 ## [View Project System](https://github.com/orgs/PROTOANIC/projects/3?fullscreen=true)
 
 [Create a GitHub Account](https://github.com/join)
+
+Mail : PROTOANIC.Racing@gmail.com
 
 # Organisation Roles
 
