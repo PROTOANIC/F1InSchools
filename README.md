@@ -29,6 +29,9 @@ Mail : PROTOANIC.Racing@gmail.com
 | Patrick Groves  	| Graphics Designer                  	|
 
 ## Support Roles
+
+No matter how small or large these members contribute, all people will be credited for their work towards our outcomes.
+
 | Name      	      | Role                              	|
 |-----------------	|------------------------------------	|
 | Graham Roscoe     | Group Supervisor                    |
