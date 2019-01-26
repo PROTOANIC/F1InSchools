@@ -19,13 +19,23 @@ Mail : PROTOANIC.Racing@gmail.com
 
 # Organisation Roles
 
-| Antoan Phu      	| Head of Operations                 	|
+| Name      	      | Role                              	|
 |-----------------	|------------------------------------	|
+| Antoan Phu      	| Head of Operations                 	|
 | Dylan Gallagher 	| Standards And Optimisation Auditor 	|
 | Geoffrey Kelly  	| Resource Administrator             	|
 | Jakob Eckl      	| Manufacturing Engineer             	|
 | James Maxwell   	| Enterprise Manager                	|
 | Patrick Groves  	| Graphics Designer                  	|
+
+## Support Roles
+| Name      	      | Role                              	|
+|-----------------	|------------------------------------	|
+| Graham Roscoe     | Group Supervisor                    |
+| Cameron Jacobie   | Finance Management Associate      	|
+| Henry Smith       | Vehicle Design Contributor          |
+| Ivan Hughes       | Enterprise Contributor              |
+
 
 # Main Announcements
 
