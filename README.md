@@ -24,7 +24,7 @@ Mail : PROTOANIC.Racing@gmail.com
 | Antoan Phu      	| Head of Operations                 	|
 | Dylan Gallagher 	| Standards And Optimisation Auditor 	|
 | Geoffrey Kelly  	| Resource Administrator             	|
-| Jakob Eckl      	| Manufacturing Engineer             	|
+| Henry Smith      	| Manufacturing Engineer             	|
 | James Maxwell   	| Enterprise Manager                	|
 | Patrick Groves  	| Graphics Designer                  	|
 
