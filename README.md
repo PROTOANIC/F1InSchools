@@ -15,17 +15,17 @@ PROTOANIC Open-Source Management Board
 
 [Create a GitHub Account](https://github.com/join)
 
-Mail : PROTOANIC.Racing@gmail.com
+Mail : admin@PROTOANIC.com
 
 # Organisation Roles
 
 | Name      	      | Role                              	|
 |-----------------	|------------------------------------	|
 | Antoan Phu      	| Head of Operations                 	|
-| Dylan Gallagher 	| Standards And Optimisation Auditor 	|
+| Dylan Gallagher 	| Group Optimisation Auditor 	        |
 | Geoffrey Kelly  	| Resource Administrator             	|
 | Henry Smith      	| Manufacturing Engineer             	|
-| James Maxwell   	| Enterprise Manager                	|
+| James Maxwell   	| Business Enterprise Manager        	|
 | Patrick Groves  	| Graphics Designer                  	|
 
 ## Support Roles
